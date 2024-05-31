@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\2023\ete\Maison\bin\Debug\Maison.exe.config
+C:\Users\Admin\source\repos\2023\ete\Maison\bin\Debug\Maison.exe
+C:\Users\Admin\source\repos\2023\ete\Maison\bin\Debug\Maison.pdb
+C:\Users\Admin\source\repos\2023\ete\Maison\obj\Debug\Maison.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\2023\ete\Maison\obj\Debug\Maison.Form1.resources
+C:\Users\Admin\source\repos\2023\ete\Maison\obj\Debug\Maison.Properties.Resources.resources
+C:\Users\Admin\source\repos\2023\ete\Maison\obj\Debug\Maison.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\2023\ete\Maison\obj\Debug\Maison.exe
+C:\Users\Admin\source\repos\2023\ete\Maison\obj\Debug\Maison.pdb
+C:\Users\Admin\source\repos\2023\ete\Maison\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\2023\ete\Maison\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\2023\ete\Maison\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\2023\ete\Maison\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\2023\ete\Maison\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\Admin\source\repos\2023\ete\Maison\obj\Debug\Maison.csproj.CopyComplete

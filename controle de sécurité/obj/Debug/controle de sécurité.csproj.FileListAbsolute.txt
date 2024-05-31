@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\2023\ete\controle de sécurité\bin\Debug\controle de sécurité.exe.config
+C:\Users\Admin\source\repos\2023\ete\controle de sécurité\bin\Debug\controle de sécurité.exe
+C:\Users\Admin\source\repos\2023\ete\controle de sécurité\bin\Debug\controle de sécurité.pdb
+C:\Users\Admin\source\repos\2023\ete\controle de sécurité\obj\Debug\controle_de_sécurité.Form1.resources
+C:\Users\Admin\source\repos\2023\ete\controle de sécurité\obj\Debug\controle_de_sécurité.Properties.Resources.resources
+C:\Users\Admin\source\repos\2023\ete\controle de sécurité\obj\Debug\controle de sécurité.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\2023\ete\controle de sécurité\obj\Debug\controle de sécurité.exe
+C:\Users\Admin\source\repos\2023\ete\controle de sécurité\obj\Debug\controle de sécurité.pdb
+C:\Users\Admin\source\repos\2023\ete\controle de sécurité\obj\Debug\controle de sécurité.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\2023\ete\controle de sécurité\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\2023\ete\controle de sécurité\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\2023\ete\controle de sécurité\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\2023\ete\controle de sécurité\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\2023\ete\controle de sécurité\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\Admin\source\repos\2023\ete\controle de sécurité\obj\Debug\controle de sécurité.csproj.CopyComplete
+C:\Users\Admin\source\repos\2023\ete\controle de sécurité\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
